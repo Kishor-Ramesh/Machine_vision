@@ -15,6 +15,20 @@
 </p>
 
 
-<h1 align="left"> Results</h1> 
-<img align="center" alt="Pen" height="400" width="600" src="https://github.com/Kishor-Ramesh/Machine_vision/blob/main/results/pen_evidance.png">
+<h1 align="left"> Results</h1>
+<ol>
+  <li>
+    <p>
+      Image-1 (Good lightning condition)
+    </p>
+    <img align="center" alt="Pen" height="400" width="600" src="https://github.com/Kishor-Ramesh/Machine_vision/blob/main/results/pen_evidance.png">
+  </li>
+  <li>
+    <p>
+      Image-2 (Poor lightning condition)
+    </p>
+    <img aligh="center" alt="Patterns" height="400" width="600" src="https://github.com/Kishor-Ramesh/Machine_vision/blob/main/results/lowlight_evidence.png">
+  </li>
+</ol>
+
 
