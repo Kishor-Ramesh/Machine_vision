@@ -4,7 +4,11 @@
   <ol>
     <li>
        a reference object on the top left is to be placed or drawn.
+    </li>
+    <li>
       make sure the reference object is the first object on the left hand side.
+    </li>
+    <li>
       when prompted for the file name of the image, make sure to include the extension as well.
     </li>
   </ol>
